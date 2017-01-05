@@ -10,7 +10,7 @@ date: 2017/01/05
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. 容器选择使用tomcat 9.0;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. 部署在webapps下的项目结构如图：
-![这里写图片描述]()(http://img.blog.csdn.net/20170105130224972?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd2s1MTkyMA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![这里写图片描述]()(http://img.blog.csdn.net/20170105130224972)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**注意：在这里提醒一下初学者，`WebContent`文件夹即相当于tomcat中的`webapps` 文件夹。**
@@ -70,5 +70,5 @@ date: 2017/01/05
 ```
 `action="/你的项目名/SelectBeer.do"
 ```
-`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此地址翻译成完整地址为：`localhost:8888/你的项目名/SelectBeer.do`，这与web.xml配置的Servlet地址相符，因此可以顺利访问到配置的Servlet。
+`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此地址翻译成完整地址为：`localhost:8888/你的项目名/SelectBeer.do\`，这与web.xml配置的Servlet地址相符，因此可以顺利访问到配置的Servlet。
 
