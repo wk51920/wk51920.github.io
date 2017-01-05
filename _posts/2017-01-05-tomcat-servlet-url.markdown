@@ -10,7 +10,7 @@ date: 2017/01/05
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. 容器选择使用tomcat 9.0;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. 部署在webapps下的项目结构如图：
-![这里写图片描述]()(http://img.blog.csdn.net/20170105130224972)
+![项目结构]()({{ site.url }}/assets/images/2017-01-05-tomcat-servlet-url/01.png)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**注意：在这里提醒一下初学者，`WebContent`文件夹即相当于tomcat中的`webapps` 文件夹。**
