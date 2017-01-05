@@ -9,7 +9,7 @@ date: 2017/01/05
 # 环境介绍
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. 容器选择使用tomcat 9.0;
-\<br/\>
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. 部署在webapps下的项目结构如图：
 ![项目结构图][1]
 
